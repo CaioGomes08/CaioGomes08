@@ -8,6 +8,6 @@ Meu nome é Caio Vinícius Gomes, Tecnólogo em Análise e Desenvolvimento de Si
 web full stack.
 
 - :office_worker: Analista de desenvolvimento na **Opus Software**
-- :computer: Techs: Angular, .Net Core, Html 5, CSS 3, Git, Node.js, entre outras.
+- :computer: Techs: Angular, .Net Core, Sql Server, Html 5, CSS 3, Git, Node.js, entre outras.
 - :books: Estudando desenvolvimento mobile com Flutter :blue_heart:
 
