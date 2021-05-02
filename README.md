@@ -10,4 +10,5 @@ web full stack.
 - :office_worker: Analista de desenvolvimento na **Deal Technologies**
 - :computer: Techs: Angular, .Net Core, Sql Server, Html 5, CSS 3, Git, Node.js, entre outras.
 - :books: Estudando desenvolvimento mobile com Flutter :blue_heart:
+- :triangular_ruler::computer: Pós Graduando em Arquitetura de Software (PUC-MINAS)
 
