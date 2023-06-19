@@ -7,7 +7,7 @@
 Meu nome é Caio Vinícius Gomes, Tecnólogo em Análise e Desenvolvimento de Sistemas pela faculdade de tencnologia Dom Amaury Castanho (Fatec-Itu), Atuo como desenvolvedor
 web full stack.
 
-- :office_worker: Analista de desenvolvimento Pleno na **Deal Technologies**
+- :office_worker: Analista de software Sênior na **Seconds**
 - :computer: Techs: Angular, .Net Core, Sql Server, Html 5, CSS 3, Git, Node.js, entre outras.
 - :books: Estudando desenvolvimento mobile com Flutter :blue_heart:
 - :triangular_ruler::computer: Pós Graduado em Arquitetura de Software (PUC-MINAS)
