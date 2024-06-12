@@ -8,7 +8,7 @@ Meu nome é Caio Vinícius Gomes, Tecnólogo em Análise e Desenvolvimento de Si
 web full stack e mobile.
 
 - :office_worker: Analista de software Sênior na **Seconds**
-- :computer: Techs: Angular, .Net Core, Sql Server, Html 5, CSS 3, Git, Node.js, Flutter, entre outras.
+- :computer: Techs: Angular, .Net Core, Sql Server, Html 5, CSS 3, Git, Node.js, Flutter, AWS entre outras.
 - :books: Estudando desenvolvimento mobile com Flutter :blue_heart:
 - :triangular_ruler::computer: Pós Graduado em Arquitetura de Software (PUC-MINAS)
 
